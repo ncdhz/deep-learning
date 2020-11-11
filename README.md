@@ -10,5 +10,7 @@
     + `index_slice_tensor` 索引与切片
     + `broadcasting` 维度补齐
     + `mathematical_operation` 数学计算
+    + `merge_split` 合并与分割
+    + `data_statistics` 数据统计
 3. `forward-propagation` 前向传播
     + `forward` 用 `tensorflow` 基于 `mnist` 数据集写的前向传播的例子
