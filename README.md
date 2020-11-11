@@ -12,5 +12,7 @@
     + `mathematical_operation` 数学计算
     + `merge_split` 合并与分割
     + `data_statistics` 数据统计
+    + `tensor_sort` 张量排序
+    + `fill_copy` 数据的填充与复制
 3. `forward-propagation` 前向传播
     + `forward` 用 `tensorflow` 基于 `mnist` 数据集写的前向传播的例子
