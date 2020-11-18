@@ -16,3 +16,11 @@
     + `fill_copy` 数据的填充与复制
 3. `forward-propagation` 前向传播
     + `forward` 用 `tensorflow` 基于 `mnist` 数据集写的前向传播的例子
+4. `keras` keras使用
+    + `regressor` 回归
+    + `classifier` 分类
+    + `cnn` 卷积神经网络
+    + `rnn_classifier` 循环神经网络分类
+    + `rnn_regressor` 循环神经网络回归
+    + `autoencoder` 自编码
+    + `save_reload` 保存和加载模型
