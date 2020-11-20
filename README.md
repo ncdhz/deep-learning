@@ -21,6 +21,6 @@
     + `classifier` 分类
     + `cnn` 卷积神经网络
     + `rnn_classifier` 循环神经网络分类
-    + `rnn_regressor` 循环神经网络回归
+    + `rnn_lstm_regressor` 循环神经网络回归
     + `autoencoder` 自编码
     + `save_reload` 保存和加载模型
