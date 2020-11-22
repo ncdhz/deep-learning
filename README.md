@@ -24,3 +24,10 @@
     + `rnn_lstm_regressor` 循环神经网络回归
     + `autoencoder` 自编码
     + `save_reload` 保存和加载模型
+5. `sklearn` sklearn使用
+    + `pattern` 一个 iris 例子
+    + `datasets` 数据集
+    + `model_attribute_method` model 的属性
+    + `normalization` 归一化
+    + `cross_validation` 交叉验证
+    + `save` 保存模块
