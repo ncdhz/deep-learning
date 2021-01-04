@@ -31,3 +31,16 @@
     + `normalization` 归一化
     + `cross_validation` 交叉验证
     + `save` 保存模块
+6. `pyTorch` pyTorch使用
+    + `torch_numpy` 对比 torch 和 numpy 
+    + `variable` 包装 tensor 便于梯度下降
+    + `activation` 激活函数
+    + `regression` 回归
+    + `classification` 分类
+    + `build_nn_quickly` 快速构建网络
+    + `save_reload` 保存和加载
+    + `batch_train` 块训练
+    + `optimizer` 优化函数
+    + `CNN` 卷积神经网络
+    + `RNN_classifier` RNN 分类
+    + `RNN_regressor` RNN 回归
